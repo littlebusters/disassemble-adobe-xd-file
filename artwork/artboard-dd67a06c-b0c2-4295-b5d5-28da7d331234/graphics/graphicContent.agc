@@ -102,6 +102,88 @@
               "ty": 0
             },
             "type": "shape"
+          },
+          {
+            "id": "cefb7a76-3380-4699-bf31-f3be1fd25ad0",
+            "meta": {
+              "ux": {
+                "nameL10N": "SHAPE_GROUP",
+                "rangedStyles": [
+                  {
+                    "charSpacing": 0,
+                    "fill": {
+                      "value": 4285558896
+                    },
+                    "fontFamily": "Hiragino Kaku Gothic ProN",
+                    "fontSize": 20,
+                    "fontStyle": "W3",
+                    "length": 0,
+                    "textTransform": "none",
+                    "underline": false
+                  }
+                ],
+                "singleTextObject": true
+              }
+            },
+            "name": "Type something",
+            "style": {
+              "fill": {
+                "color": {
+                  "mode": "RGB",
+                  "value": {
+                    "b": 112,
+                    "g": 112,
+                    "r": 112
+                  }
+                },
+                "type": "solid"
+              },
+              "font": {
+                "family": "Hiragino Kaku Gothic ProN",
+                "postscriptName": "HiraKakuProN-W3",
+                "size": 20,
+                "style": "W3"
+              }
+            },
+            "text": {
+              "frame": {
+                "height": 63,
+                "type": "area",
+                "width": 113
+              },
+              "paragraphs": [
+                {
+                  "lines": [
+                    [
+                      {
+                        "from": 0,
+                        "to": 5,
+                        "x": 0,
+                        "y": 18
+                      }
+                    ],
+                    [
+                      {
+                        "from": 5,
+                        "to": 14,
+                        "x": 0,
+                        "y": 52
+                      }
+                    ]
+                  ]
+                }
+              ],
+              "rawText": "Type something"
+            },
+            "transform": {
+              "a": 1,
+              "b": 0,
+              "c": 0,
+              "d": 1,
+              "tx": 485,
+              "ty": 288
+            },
+            "type": "text"
           }
         ],
         "meta": {
@@ -109,7 +191,7 @@
             "path": "dd67a06c-b0c2-4295-b5d5-28da7d331234"
           }
         },
-        "ref": "c3976caf-cd5b-481b-bc07-bef835377402"
+        "ref": "24a36a2c-36da-4ae5-be73-5dd0c8444e86"
       },
       "id": "dd67a06c-b0c2-4295-b5d5-28da7d331234",
       "meta": {
