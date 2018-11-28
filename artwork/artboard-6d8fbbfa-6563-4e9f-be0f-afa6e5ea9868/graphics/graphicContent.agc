@@ -5,13 +5,65 @@
   "children": [
     {
       "artboard": {
-        "children": [],
+        "children": [
+          {
+            "id": "77cc14d1-251d-4604-8cef-2d7eda7e1b33",
+            "meta": {
+              "ux": {
+                "nameL10N": "SHAPE_RECTANGLE"
+              }
+            },
+            "name": "長方形 1",
+            "shape": {
+              "height": 100,
+              "type": "rect",
+              "width": 113,
+              "x": 0,
+              "y": 0
+            },
+            "style": {
+              "fill": {
+                "color": {
+                  "mode": "RGB",
+                  "value": {
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                  }
+                },
+                "type": "solid"
+              },
+              "stroke": {
+                "align": "inside",
+                "color": {
+                  "mode": "RGB",
+                  "value": {
+                    "b": 112,
+                    "g": 112,
+                    "r": 112
+                  }
+                },
+                "type": "solid",
+                "width": 1
+              }
+            },
+            "transform": {
+              "a": 1,
+              "b": 0,
+              "c": 0,
+              "d": 1,
+              "tx": 0,
+              "ty": 0
+            },
+            "type": "shape"
+          }
+        ],
         "meta": {
           "ux": {
             "path": "6d8fbbfa-6563-4e9f-be0f-afa6e5ea9868"
           }
         },
-        "ref": "33cafe2e-80bd-463f-81ee-473475038b92"
+        "ref": "24982374-9b41-46ee-8d68-5b824b6df1c2"
       },
       "id": "6d8fbbfa-6563-4e9f-be0f-afa6e5ea9868",
       "meta": {
