@@ -33,6 +33,30 @@
                 },
                 "type": "solid"
               },
+              "filters": [
+                {
+                  "global": true,
+                  "params": {
+                    "dropShadows": [
+                      {
+                        "color": {
+                          "alpha": 0.1607843137254902,
+                          "mode": "RGB",
+                          "value": {
+                            "b": 0,
+                            "g": 0,
+                            "r": 0
+                          }
+                        },
+                        "dx": 0,
+                        "dy": 3,
+                        "r": 3
+                      }
+                    ]
+                  },
+                  "type": "dropShadow"
+                }
+              ],
               "stroke": {
                 "align": "inside",
                 "color": {
@@ -55,7 +79,13 @@
               "tx": 0,
               "ty": 0
             },
-            "type": "shape"
+            "type": "shape",
+            "visualBounds": {
+              "height": 118,
+              "width": 131,
+              "x": -9,
+              "y": -6
+            }
           },
           {
             "id": "8cfaf382-63d0-4476-9463-f0ee9e6f7dac",
@@ -174,7 +204,7 @@
             "path": "6d8fbbfa-6563-4e9f-be0f-afa6e5ea9868"
           }
         },
-        "ref": "54081187-d441-4f25-a2fb-2d8f51f20925"
+        "ref": "8f3d3a5e-c1be-4e64-8daf-38b88e5c3a49"
       },
       "id": "6d8fbbfa-6563-4e9f-be0f-afa6e5ea9868",
       "meta": {
