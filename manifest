@@ -54,6 +54,37 @@
           "uxdesign#viewport": {
             "height": 667
           }
+        },
+        {
+          "children": [
+            {
+              "components": [
+                {
+                  "id": "3d9550a3-63ea-4e03-9c54-7e1033b06ac1",
+                  "name": "",
+                  "path": "graphicContent.agc",
+                  "rel": "primary",
+                  "state": "unmodified",
+                  "type": "application/vnd.adobe.agc.graphicsTree+json"
+                }
+              ],
+              "id": "cb242592-4d0f-4373-9721-a3183ccc2ada",
+              "name": "graphics",
+              "path": "graphics"
+            }
+          ],
+          "id": "970ea945-9a36-4fe6-aa02-df060ad75bce",
+          "name": "Artboard2",
+          "path": "artboard-dd67a06c-b0c2-4295-b5d5-28da7d331234",
+          "uxdesign#bounds": {
+            "height": 667,
+            "width": 375,
+            "x": 445,
+            "y": 0
+          },
+          "uxdesign#viewport": {
+            "height": 667
+          }
         }
       ],
       "id": "f516b062-756f-4aa3-b181-dc4489a0bab4",
@@ -149,7 +180,7 @@
   "uxdesign#prototypeSharePublic": "true",
   "uxdesign#requirePassword": "false",
   "uxdesign#requirePasswordPrivate": "false",
-  "uxdesign#serializationId": "99e3abfb-3588-49a5-9197-202a50063573",
+  "uxdesign#serializationId": "ede12167-7a36-4f56-82f8-19018326b6f9",
   "uxdesign#specAllowComments": "false",
   "uxdesign#specAllowCommentsPrivate": "false",
   "uxdesign#specHomeArtboardType": "Web",
