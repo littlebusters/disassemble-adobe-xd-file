@@ -8,12 +8,12 @@
     xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
    xmp:CreatorTool="XD"
    xmp:CreateDate="2018-11-28T20:52:13.514+09:00"
-   xmp:ModifyDate="2018-11-28T20:56:41.578+09:00"
-   xmp:MetadataDate="2018-11-28T20:56:41.578+09:00"
+   xmp:ModifyDate="2018-11-28T20:57:19.865+09:00"
+   xmp:MetadataDate="2018-11-28T20:57:19.865+09:00"
    dc:format="application/vnd.adobe.sparkler.project+dcx"
    xmpMM:DocumentID="7066f0ab-7624-483b-b4b6-b7c10ca7d513"
    xmpMM:OriginalDocumentID="7066f0ab-7624-483b-b4b6-b7c10ca7d513"
-   xmpMM:InstanceID="2a3e93ea-74a5-4ae3-973f-556e08a54750">
+   xmpMM:InstanceID="75b518f7-3c68-487e-8076-8ca873981992">
    <dc:title>
     <rdf:Alt>
      <rdf:li xml:lang="x-default">structure-test</rdf:li>
@@ -28,8 +28,8 @@
       stEvt:softwareAgent="XD"/>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="2a3e93ea-74a5-4ae3-973f-556e08a54750"
-      stEvt:when="2018-11-28T20:56:41.578+09:00"
+      stEvt:instanceID="75b518f7-3c68-487e-8076-8ca873981992"
+      stEvt:when="2018-11-28T20:57:19.865+09:00"
       stEvt:softwareAgent="XD"/>
     </rdf:Seq>
    </xmpMM:History>

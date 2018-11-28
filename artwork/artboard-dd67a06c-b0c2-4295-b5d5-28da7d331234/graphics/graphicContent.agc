@@ -5,13 +5,64 @@
   "children": [
     {
       "artboard": {
-        "children": [],
+        "children": [
+          {
+            "id": "31eb0ff5-264a-4ad5-a96c-dc09271e3397",
+            "meta": {
+              "ux": {
+                "nameL10N": "SHAPE_ELLIPSE"
+              }
+            },
+            "name": "楕円形 1",
+            "shape": {
+              "cx": 46.5,
+              "cy": 46.5,
+              "r": 46.5,
+              "type": "circle"
+            },
+            "style": {
+              "fill": {
+                "color": {
+                  "mode": "RGB",
+                  "value": {
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                  }
+                },
+                "type": "solid"
+              },
+              "stroke": {
+                "align": "inside",
+                "color": {
+                  "mode": "RGB",
+                  "value": {
+                    "b": 112,
+                    "g": 112,
+                    "r": 112
+                  }
+                },
+                "type": "solid",
+                "width": 1
+              }
+            },
+            "transform": {
+              "a": 1,
+              "b": 0,
+              "c": 0,
+              "d": 1,
+              "tx": 445,
+              "ty": 0
+            },
+            "type": "shape"
+          }
+        ],
         "meta": {
           "ux": {
             "path": "dd67a06c-b0c2-4295-b5d5-28da7d331234"
           }
         },
-        "ref": "32756b61-66c2-44f6-aefb-c4c112a648e3"
+        "ref": "8a375299-d1a8-49eb-83c9-2a4c71db0994"
       },
       "id": "dd67a06c-b0c2-4295-b5d5-28da7d331234",
       "meta": {
