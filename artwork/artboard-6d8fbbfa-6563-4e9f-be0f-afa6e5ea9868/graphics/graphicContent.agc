@@ -56,6 +56,45 @@
               "ty": 0
             },
             "type": "shape"
+          },
+          {
+            "id": "8cfaf382-63d0-4476-9463-f0ee9e6f7dac",
+            "meta": {
+              "ux": {
+                "nameL10N": "SHAPE_LINE"
+              }
+            },
+            "name": "線 1",
+            "shape": {
+              "type": "line",
+              "x1": 0,
+              "x2": 212,
+              "y1": 0,
+              "y2": 0
+            },
+            "style": {
+              "stroke": {
+                "color": {
+                  "mode": "RGB",
+                  "value": {
+                    "b": 112,
+                    "g": 112,
+                    "r": 112
+                  }
+                },
+                "type": "solid",
+                "width": 1
+              }
+            },
+            "transform": {
+              "a": 1,
+              "b": 0,
+              "c": 0,
+              "d": 1,
+              "tx": 16.5,
+              "ty": 137.5
+            },
+            "type": "shape"
           }
         ],
         "meta": {
@@ -63,7 +102,7 @@
             "path": "6d8fbbfa-6563-4e9f-be0f-afa6e5ea9868"
           }
         },
-        "ref": "24982374-9b41-46ee-8d68-5b824b6df1c2"
+        "ref": "0e87a73c-e579-4cd2-a46a-a3482b25d100"
       },
       "id": "6d8fbbfa-6563-4e9f-be0f-afa6e5ea9868",
       "meta": {
