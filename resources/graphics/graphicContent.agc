@@ -160,13 +160,13 @@
             "id": "152dc82e-51b6-486a-9ef4-9dcfd97c5000",
             "meta": {
               "ux": {
+                "hasCustomName": true,
                 "listViewPosition": 0,
-                "modTime": 1543497086110,
-                "nameL10N": "SHAPE_SYMBOL",
+                "modTime": 1543497129355,
                 "symbolId": "bcf55bdf-5d02-4d4d-821b-24ca48c4000f"
               }
             },
-            "name": "シンボル 1",
+            "name": "Symbol",
             "transform": {
               "a": 1,
               "b": 0,
