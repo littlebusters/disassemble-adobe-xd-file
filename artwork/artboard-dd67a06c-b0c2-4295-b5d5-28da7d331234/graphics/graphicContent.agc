@@ -210,7 +210,7 @@
                       "singleTextObject": true
                     }
                   },
-                  "name": "Heading",
+                  "name": "override",
                   "style": {
                     "fill": {
                       "color": {
@@ -240,7 +240,7 @@
                           [
                             {
                               "from": 0,
-                              "to": 7,
+                              "to": 8,
                               "x": 0,
                               "y": 0
                             }
@@ -248,7 +248,7 @@
                         ]
                       }
                     ],
-                    "rawText": "Heading"
+                    "rawText": "override"
                   },
                   "transform": {
                     "a": 1,
@@ -339,7 +339,7 @@
             "path": "dd67a06c-b0c2-4295-b5d5-28da7d331234"
           }
         },
-        "ref": "9cf204df-9ea7-432d-8cd5-bcbf76fd3bc4"
+        "ref": "1052ff1e-1405-4a45-af01-ef5d350010d6"
       },
       "id": "dd67a06c-b0c2-4295-b5d5-28da7d331234",
       "meta": {
