@@ -184,6 +184,154 @@
               "ty": 288
             },
             "type": "text"
+          },
+          {
+            "group": {
+              "children": [
+                {
+                  "id": "c172e442-87c1-4d42-911c-d21e0631ed5f",
+                  "meta": {
+                    "ux": {
+                      "nameL10N": "SHAPE_GROUP",
+                      "rangedStyles": [
+                        {
+                          "charSpacing": 0,
+                          "fill": {
+                            "value": 4285558896
+                          },
+                          "fontFamily": "Hiragino Kaku Gothic ProN",
+                          "fontSize": 20,
+                          "fontStyle": "W3",
+                          "length": 0,
+                          "textTransform": "none",
+                          "underline": false
+                        }
+                      ],
+                      "singleTextObject": true
+                    }
+                  },
+                  "name": "Heading",
+                  "style": {
+                    "fill": {
+                      "color": {
+                        "mode": "RGB",
+                        "value": {
+                          "b": 112,
+                          "g": 112,
+                          "r": 112
+                        }
+                      },
+                      "type": "solid"
+                    },
+                    "font": {
+                      "family": "Hiragino Kaku Gothic ProN",
+                      "postscriptName": "HiraKakuProN-W3",
+                      "size": 20,
+                      "style": "W3"
+                    }
+                  },
+                  "text": {
+                    "frame": {
+                      "type": "positioned"
+                    },
+                    "paragraphs": [
+                      {
+                        "lines": [
+                          [
+                            {
+                              "from": 0,
+                              "to": 7,
+                              "x": 0,
+                              "y": 0
+                            }
+                          ]
+                        ]
+                      }
+                    ],
+                    "rawText": "Heading"
+                  },
+                  "transform": {
+                    "a": 1,
+                    "b": 0,
+                    "c": 0,
+                    "d": 1,
+                    "tx": 10,
+                    "ty": 380
+                  },
+                  "type": "text"
+                },
+                {
+                  "id": "2b46fab4-de38-4dae-89d2-9803b933c81e",
+                  "meta": {
+                    "ux": {
+                      "nameL10N": "SHAPE_RECTANGLE"
+                    }
+                  },
+                  "name": "長方形 2",
+                  "shape": {
+                    "height": 2,
+                    "type": "rect",
+                    "width": 375,
+                    "x": 0,
+                    "y": 0
+                  },
+                  "style": {
+                    "fill": {
+                      "color": {
+                        "mode": "RGB",
+                        "value": {
+                          "b": 0,
+                          "g": 0,
+                          "r": 0
+                        }
+                      },
+                      "type": "solid"
+                    },
+                    "stroke": {
+                      "align": "inside",
+                      "color": {
+                        "mode": "RGB",
+                        "value": {
+                          "b": 112,
+                          "g": 112,
+                          "r": 112
+                        }
+                      },
+                      "type": "none",
+                      "width": 1
+                    }
+                  },
+                  "transform": {
+                    "a": 1,
+                    "b": 0,
+                    "c": 0,
+                    "d": 1,
+                    "tx": 0,
+                    "ty": 393
+                  },
+                  "type": "shape"
+                }
+              ]
+            },
+            "id": "56cbc7f6-6279-4e49-89d7-f9d84831ed1d",
+            "meta": {
+              "ux": {
+                "hasCustomName": true,
+                "listViewPosition": 0,
+                "modTime": 1543497129355,
+                "symbolId": "bcf55bdf-5d02-4d4d-821b-24ca48c4000f"
+              }
+            },
+            "name": "Symbol",
+            "transform": {
+              "a": 1,
+              "b": 0,
+              "c": 0,
+              "d": 1,
+              "tx": 445,
+              "ty": 0
+            },
+            "type": "group"
           }
         ],
         "meta": {
@@ -191,7 +339,7 @@
             "path": "dd67a06c-b0c2-4295-b5d5-28da7d331234"
           }
         },
-        "ref": "24a36a2c-36da-4ae5-be73-5dd0c8444e86"
+        "ref": "9cf204df-9ea7-432d-8cd5-bcbf76fd3bc4"
       },
       "id": "dd67a06c-b0c2-4295-b5d5-28da7d331234",
       "meta": {

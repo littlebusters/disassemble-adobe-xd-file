@@ -1,19 +1,19 @@
 {
   "artboards": {
-    "24a36a2c-36da-4ae5-be73-5dd0c8444e86": {
-      "height": 667,
-      "name": "Artboard2",
-      "viewportHeight": 667,
-      "width": 375,
-      "x": 445,
-      "y": 0
-    },
-    "e23ba3f4-3b59-4a0a-b3ea-a27623d3298e": {
+    "1a36839a-50ad-4307-aee3-f55b3462bb2e": {
       "height": 667,
       "name": "Artboard1",
       "viewportHeight": 667,
       "width": 375,
       "x": 0,
+      "y": 0
+    },
+    "9cf204df-9ea7-432d-8cd5-bcbf76fd3bc4": {
+      "height": 667,
+      "name": "Artboard2",
+      "viewportHeight": 667,
+      "width": 375,
+      "x": 445,
       "y": 0
     }
   },
