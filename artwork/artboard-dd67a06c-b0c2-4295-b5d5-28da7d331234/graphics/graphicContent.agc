@@ -439,55 +439,128 @@
                   "type": "shape"
                 },
                 {
-                  "id": "61482f71-0ff3-4d0f-9fec-ee20f7d31567",
+                  "group": {
+                    "children": [
+                      {
+                        "id": "61482f71-0ff3-4d0f-9fec-ee20f7d31567",
+                        "meta": {
+                          "ux": {
+                            "nameL10N": "SHAPE_RECTANGLE"
+                          }
+                        },
+                        "name": "長方形 6",
+                        "shape": {
+                          "height": 31,
+                          "type": "rect",
+                          "width": 40,
+                          "x": 0,
+                          "y": 0
+                        },
+                        "style": {
+                          "fill": {
+                            "color": {
+                              "mode": "RGB",
+                              "value": {
+                                "b": 255,
+                                "g": 255,
+                                "r": 255
+                              }
+                            },
+                            "type": "solid"
+                          },
+                          "stroke": {
+                            "align": "inside",
+                            "color": {
+                              "mode": "RGB",
+                              "value": {
+                                "b": 112,
+                                "g": 112,
+                                "r": 112
+                              }
+                            },
+                            "type": "solid",
+                            "width": 1
+                          }
+                        },
+                        "transform": {
+                          "a": 1,
+                          "b": 0,
+                          "c": 0,
+                          "d": 1,
+                          "tx": 162,
+                          "ty": 31
+                        },
+                        "type": "shape"
+                      },
+                      {
+                        "id": "e8c01054-fe9b-48e8-b6ce-e66beaefb4bf",
+                        "meta": {
+                          "ux": {
+                            "nameL10N": "SHAPE_RECTANGLE"
+                          }
+                        },
+                        "name": "長方形 7",
+                        "shape": {
+                          "height": 29,
+                          "type": "rect",
+                          "width": 23,
+                          "x": 0,
+                          "y": 0
+                        },
+                        "style": {
+                          "fill": {
+                            "color": {
+                              "mode": "RGB",
+                              "value": {
+                                "b": 255,
+                                "g": 255,
+                                "r": 255
+                              }
+                            },
+                            "type": "solid"
+                          },
+                          "stroke": {
+                            "align": "inside",
+                            "color": {
+                              "mode": "RGB",
+                              "value": {
+                                "b": 112,
+                                "g": 112,
+                                "r": 112
+                              }
+                            },
+                            "type": "solid",
+                            "width": 1
+                          }
+                        },
+                        "transform": {
+                          "a": 1,
+                          "b": 0,
+                          "c": 0,
+                          "d": 1,
+                          "tx": 212,
+                          "ty": 20
+                        },
+                        "type": "shape"
+                      }
+                    ]
+                  },
+                  "id": "248da8ce-fa45-4759-9833-96019a8814d2",
                   "meta": {
                     "ux": {
-                      "nameL10N": "SHAPE_RECTANGLE"
+                      "nameL10N": "SHAPE_GROUP"
                     }
                   },
-                  "name": "長方形 6",
-                  "shape": {
-                    "height": 31,
-                    "type": "rect",
-                    "width": 40,
-                    "x": 0,
-                    "y": 0
-                  },
-                  "style": {
-                    "fill": {
-                      "color": {
-                        "mode": "RGB",
-                        "value": {
-                          "b": 255,
-                          "g": 255,
-                          "r": 255
-                        }
-                      },
-                      "type": "solid"
-                    },
-                    "stroke": {
-                      "align": "inside",
-                      "color": {
-                        "mode": "RGB",
-                        "value": {
-                          "b": 112,
-                          "g": 112,
-                          "r": 112
-                        }
-                      },
-                      "type": "solid",
-                      "width": 1
-                    }
-                  },
+                  "name": "グループ化 1",
                   "transform": {
                     "a": 1,
                     "b": 0,
                     "c": 0,
                     "d": 1,
-                    "tx": 162,
-                    "ty": 31
+                    "tx": 0,
+                    "ty": 0
                   },
-                  "type": "shape"
+                  "type": "group"
                 }
               ]
             },
@@ -515,7 +588,7 @@
             "path": "dd67a06c-b0c2-4295-b5d5-28da7d331234"
           }
         },
-        "ref": "7329334c-2d0e-41f1-a7d1-97678fc91577"
+        "ref": "3f5aca3a-481c-4e95-abab-bc422b15cb76"
       },
       "id": "dd67a06c-b0c2-4295-b5d5-28da7d331234",
       "meta": {

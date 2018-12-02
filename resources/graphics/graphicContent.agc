@@ -1,19 +1,19 @@
 {
   "artboards": {
-    "7329334c-2d0e-41f1-a7d1-97678fc91577": {
-      "height": 667,
-      "name": "Artboard2",
-      "viewportHeight": 667,
-      "width": 375,
-      "x": 445,
-      "y": 0
-    },
-    "e6f0c056-8ddd-4ed3-83a2-db8070825f6d": {
+    "00009dd7-34d3-4db4-a9ec-a837e7312bf9": {
       "height": 667,
       "name": "Artboard1",
       "viewportHeight": 667,
       "width": 375,
       "x": 0,
+      "y": 0
+    },
+    "3f5aca3a-481c-4e95-abab-bc422b15cb76": {
+      "height": 667,
+      "name": "Artboard2",
+      "viewportHeight": 667,
+      "width": 375,
+      "x": 445,
       "y": 0
     }
   },
@@ -135,55 +135,128 @@
                   "type": "shape"
                 },
                 {
-                  "id": "a2e19d27-cd49-43a5-8198-f3c33f61e7ea",
+                  "group": {
+                    "children": [
+                      {
+                        "id": "a2e19d27-cd49-43a5-8198-f3c33f61e7ea",
+                        "meta": {
+                          "ux": {
+                            "nameL10N": "SHAPE_RECTANGLE"
+                          }
+                        },
+                        "name": "長方形 6",
+                        "shape": {
+                          "height": 31,
+                          "type": "rect",
+                          "width": 40,
+                          "x": 0,
+                          "y": 0
+                        },
+                        "style": {
+                          "fill": {
+                            "color": {
+                              "mode": "RGB",
+                              "value": {
+                                "b": 255,
+                                "g": 255,
+                                "r": 255
+                              }
+                            },
+                            "type": "solid"
+                          },
+                          "stroke": {
+                            "align": "inside",
+                            "color": {
+                              "mode": "RGB",
+                              "value": {
+                                "b": 112,
+                                "g": 112,
+                                "r": 112
+                              }
+                            },
+                            "type": "solid",
+                            "width": 1
+                          }
+                        },
+                        "transform": {
+                          "a": 1,
+                          "b": 0,
+                          "c": 0,
+                          "d": 1,
+                          "tx": 162,
+                          "ty": 31
+                        },
+                        "type": "shape"
+                      },
+                      {
+                        "id": "46f58680-ec95-48a5-9268-3ccb3714d2b4",
+                        "meta": {
+                          "ux": {
+                            "nameL10N": "SHAPE_RECTANGLE"
+                          }
+                        },
+                        "name": "長方形 7",
+                        "shape": {
+                          "height": 29,
+                          "type": "rect",
+                          "width": 23,
+                          "x": 0,
+                          "y": 0
+                        },
+                        "style": {
+                          "fill": {
+                            "color": {
+                              "mode": "RGB",
+                              "value": {
+                                "b": 255,
+                                "g": 255,
+                                "r": 255
+                              }
+                            },
+                            "type": "solid"
+                          },
+                          "stroke": {
+                            "align": "inside",
+                            "color": {
+                              "mode": "RGB",
+                              "value": {
+                                "b": 112,
+                                "g": 112,
+                                "r": 112
+                              }
+                            },
+                            "type": "solid",
+                            "width": 1
+                          }
+                        },
+                        "transform": {
+                          "a": 1,
+                          "b": 0,
+                          "c": 0,
+                          "d": 1,
+                          "tx": 212,
+                          "ty": 20
+                        },
+                        "type": "shape"
+                      }
+                    ]
+                  },
+                  "id": "84eff238-40e8-4775-b2de-48b6e09b1775",
                   "meta": {
                     "ux": {
-                      "nameL10N": "SHAPE_RECTANGLE"
+                      "nameL10N": "SHAPE_GROUP"
                     }
                   },
-                  "name": "長方形 6",
-                  "shape": {
-                    "height": 31,
-                    "type": "rect",
-                    "width": 40,
-                    "x": 0,
-                    "y": 0
-                  },
-                  "style": {
-                    "fill": {
-                      "color": {
-                        "mode": "RGB",
-                        "value": {
-                          "b": 255,
-                          "g": 255,
-                          "r": 255
-                        }
-                      },
-                      "type": "solid"
-                    },
-                    "stroke": {
-                      "align": "inside",
-                      "color": {
-                        "mode": "RGB",
-                        "value": {
-                          "b": 112,
-                          "g": 112,
-                          "r": 112
-                        }
-                      },
-                      "type": "solid",
-                      "width": 1
-                    }
-                  },
+                  "name": "グループ化 1",
                   "transform": {
                     "a": 1,
                     "b": 0,
                     "c": 0,
                     "d": 1,
-                    "tx": 162,
-                    "ty": 31
+                    "tx": 0,
+                    "ty": 0
                   },
-                  "type": "shape"
+                  "type": "group"
                 }
               ]
             },
@@ -192,7 +265,7 @@
               "ux": {
                 "hasCustomName": true,
                 "listViewPosition": 0,
-                "modTime": 1543721375963,
+                "modTime": 1543730499745,
                 "symbolId": "7bed8186-4fcb-4383-a5ec-65f372927007"
               }
             },
