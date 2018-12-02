@@ -432,6 +432,57 @@
               "ty": 0
             },
             "type": "group"
+          },
+          {
+            "id": "ca5728a7-d2fd-4608-bdf7-0d3801b7140c",
+            "meta": {
+              "ux": {
+                "nameL10N": "SHAPE_ELLIPSE"
+              }
+            },
+            "name": "楕円形 2",
+            "shape": {
+              "cx": 60,
+              "cy": 30,
+              "rx": 60,
+              "ry": 30,
+              "type": "ellipse"
+            },
+            "style": {
+              "fill": {
+                "color": {
+                  "mode": "RGB",
+                  "value": {
+                    "b": 255,
+                    "g": 255,
+                    "r": 255
+                  }
+                },
+                "type": "solid"
+              },
+              "stroke": {
+                "align": "inside",
+                "color": {
+                  "mode": "RGB",
+                  "value": {
+                    "b": 112,
+                    "g": 112,
+                    "r": 112
+                  }
+                },
+                "type": "solid",
+                "width": 1
+              }
+            },
+            "transform": {
+              "a": 1,
+              "b": 0,
+              "c": 0,
+              "d": 1,
+              "tx": 150,
+              "ty": 40
+            },
+            "type": "shape"
           }
         ],
         "meta": {
@@ -439,7 +490,7 @@
             "path": "6d8fbbfa-6563-4e9f-be0f-afa6e5ea9868"
           }
         },
-        "ref": "00009dd7-34d3-4db4-a9ec-a837e7312bf9"
+        "ref": "7374c2b8-5624-441d-af73-5ec0f12c8558"
       },
       "id": "6d8fbbfa-6563-4e9f-be0f-afa6e5ea9868",
       "meta": {
