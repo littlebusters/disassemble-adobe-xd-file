@@ -1,6 +1,6 @@
 {
   "artboards": {
-    "7d991e3d-6833-4208-b3d1-a1702215d3fa": {
+    "7329334c-2d0e-41f1-a7d1-97678fc91577": {
       "height": 667,
       "name": "Artboard2",
       "viewportHeight": 667,
@@ -8,7 +8,7 @@
       "x": 445,
       "y": 0
     },
-    "d1bb7a18-ef6e-47fb-ad12-05de1ced42d8": {
+    "e6f0c056-8ddd-4ed3-83a2-db8070825f6d": {
       "height": 667,
       "name": "Artboard1",
       "viewportHeight": 667,

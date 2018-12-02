@@ -199,6 +199,95 @@
             "type": "text"
           },
           {
+            "id": "cdf277ce-6a5f-40d8-9b45-82fe7e2efea3",
+            "meta": {
+              "ux": {
+                "nameL10N": "SHAPE_GROUP",
+                "rangedStyles": [
+                  {
+                    "charSpacing": 200,
+                    "fill": {
+                      "value": 4285558896
+                    },
+                    "fontFamily": "Hiragino Kaku Gothic ProN",
+                    "fontSize": 20,
+                    "fontStyle": "W3",
+                    "length": 0,
+                    "textTransform": "none",
+                    "underline": false
+                  }
+                ],
+                "singleTextObject": true
+              }
+            },
+            "name": "Type something\nType something",
+            "style": {
+              "fill": {
+                "color": {
+                  "mode": "RGB",
+                  "value": {
+                    "b": 112,
+                    "g": 112,
+                    "r": 112
+                  }
+                },
+                "type": "solid"
+              },
+              "font": {
+                "family": "Hiragino Kaku Gothic ProN",
+                "postscriptName": "HiraKakuProN-W3",
+                "size": 20,
+                "style": "W3"
+              },
+              "textAttributes": {
+                "letterSpacing": 200,
+                "lineHeight": 35,
+                "paragraphAfterSpacing": 20
+              }
+            },
+            "text": {
+              "frame": {
+                "type": "positioned"
+              },
+              "paragraphs": [
+                {
+                  "lines": [
+                    [
+                      {
+                        "from": 0,
+                        "to": 14,
+                        "x": 0,
+                        "y": 0
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "lines": [
+                    [
+                      {
+                        "from": 15,
+                        "to": 29,
+                        "x": 0,
+                        "y": 55
+                      }
+                    ]
+                  ]
+                }
+              ],
+              "rawText": "Type something\nType something"
+            },
+            "transform": {
+              "a": 1,
+              "b": 0,
+              "c": 0,
+              "d": 1,
+              "tx": 33,
+              "ty": 272
+            },
+            "type": "text"
+          },
+          {
             "group": {
               "children": [
                 {
@@ -350,7 +439,7 @@
             "path": "6d8fbbfa-6563-4e9f-be0f-afa6e5ea9868"
           }
         },
-        "ref": "d1bb7a18-ef6e-47fb-ad12-05de1ced42d8"
+        "ref": "e6f0c056-8ddd-4ed3-83a2-db8070825f6d"
       },
       "id": "6d8fbbfa-6563-4e9f-be0f-afa6e5ea9868",
       "meta": {
