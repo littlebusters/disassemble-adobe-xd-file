@@ -332,6 +332,182 @@
               "ty": 0
             },
             "type": "group"
+          },
+          {
+            "group": {
+              "children": [
+                {
+                  "id": "1ac0c555-e879-4231-9154-749602f6285a",
+                  "meta": {
+                    "ux": {
+                      "nameL10N": "SHAPE_RECTANGLE"
+                    }
+                  },
+                  "name": "長方形 4",
+                  "shape": {
+                    "height": 31,
+                    "type": "rect",
+                    "width": 40,
+                    "x": 0,
+                    "y": 0
+                  },
+                  "style": {
+                    "fill": {
+                      "color": {
+                        "mode": "RGB",
+                        "value": {
+                          "b": 255,
+                          "g": 255,
+                          "r": 255
+                        }
+                      },
+                      "type": "solid"
+                    },
+                    "stroke": {
+                      "align": "inside",
+                      "color": {
+                        "mode": "RGB",
+                        "value": {
+                          "b": 112,
+                          "g": 112,
+                          "r": 112
+                        }
+                      },
+                      "type": "solid",
+                      "width": 1
+                    }
+                  },
+                  "transform": {
+                    "a": 1,
+                    "b": 0,
+                    "c": 0,
+                    "d": 1,
+                    "tx": 0,
+                    "ty": 0
+                  },
+                  "type": "shape"
+                },
+                {
+                  "id": "db7f8099-f97d-4388-a6da-70044ef58724",
+                  "meta": {
+                    "ux": {
+                      "nameL10N": "SHAPE_RECTANGLE"
+                    }
+                  },
+                  "name": "長方形 5",
+                  "shape": {
+                    "height": 31,
+                    "type": "rect",
+                    "width": 40,
+                    "x": 0,
+                    "y": 0
+                  },
+                  "style": {
+                    "fill": {
+                      "color": {
+                        "mode": "RGB",
+                        "value": {
+                          "b": 255,
+                          "g": 255,
+                          "r": 255
+                        }
+                      },
+                      "type": "solid"
+                    },
+                    "stroke": {
+                      "align": "inside",
+                      "color": {
+                        "mode": "RGB",
+                        "value": {
+                          "b": 112,
+                          "g": 112,
+                          "r": 112
+                        }
+                      },
+                      "type": "solid",
+                      "width": 1
+                    }
+                  },
+                  "transform": {
+                    "a": 1,
+                    "b": 0,
+                    "c": 0,
+                    "d": 1,
+                    "tx": 335,
+                    "ty": 47
+                  },
+                  "type": "shape"
+                },
+                {
+                  "id": "61482f71-0ff3-4d0f-9fec-ee20f7d31567",
+                  "meta": {
+                    "ux": {
+                      "nameL10N": "SHAPE_RECTANGLE"
+                    }
+                  },
+                  "name": "長方形 6",
+                  "shape": {
+                    "height": 31,
+                    "type": "rect",
+                    "width": 40,
+                    "x": 0,
+                    "y": 0
+                  },
+                  "style": {
+                    "fill": {
+                      "color": {
+                        "mode": "RGB",
+                        "value": {
+                          "b": 255,
+                          "g": 255,
+                          "r": 255
+                        }
+                      },
+                      "type": "solid"
+                    },
+                    "stroke": {
+                      "align": "inside",
+                      "color": {
+                        "mode": "RGB",
+                        "value": {
+                          "b": 112,
+                          "g": 112,
+                          "r": 112
+                        }
+                      },
+                      "type": "solid",
+                      "width": 1
+                    }
+                  },
+                  "transform": {
+                    "a": 1,
+                    "b": 0,
+                    "c": 0,
+                    "d": 1,
+                    "tx": 162,
+                    "ty": 31
+                  },
+                  "type": "shape"
+                }
+              ]
+            },
+            "id": "afcc4c68-a92a-467c-8dfe-91d0aec107eb",
+            "meta": {
+              "ux": {
+                "hasCustomName": true,
+                "symbolId": "7bed8186-4fcb-4383-a5ec-65f372927007"
+              }
+            },
+            "name": "3RectangleSymbol",
+            "transform": {
+              "a": 1,
+              "b": 0,
+              "c": 0,
+              "d": 1,
+              "tx": 445,
+              "ty": 0
+            },
+            "type": "group"
           }
         ],
         "meta": {
@@ -339,7 +515,7 @@
             "path": "dd67a06c-b0c2-4295-b5d5-28da7d331234"
           }
         },
-        "ref": "1052ff1e-1405-4a45-af01-ef5d350010d6"
+        "ref": "7d991e3d-6833-4208-b3d1-a1702215d3fa"
       },
       "id": "dd67a06c-b0c2-4295-b5d5-28da7d331234",
       "meta": {

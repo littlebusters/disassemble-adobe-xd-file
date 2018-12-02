@@ -1,6 +1,6 @@
 {
   "artboards": {
-    "1052ff1e-1405-4a45-af01-ef5d350010d6": {
+    "7d991e3d-6833-4208-b3d1-a1702215d3fa": {
       "height": 667,
       "name": "Artboard2",
       "viewportHeight": 667,
@@ -8,7 +8,7 @@
       "x": 445,
       "y": 0
     },
-    "a4a99236-ec0b-4cea-a98e-9b88171b59e8": {
+    "d1bb7a18-ef6e-47fb-ad12-05de1ced42d8": {
       "height": 667,
       "name": "Artboard1",
       "viewportHeight": 667,
@@ -29,6 +29,184 @@
           "version": 4
         },
         "symbols": [
+          {
+            "group": {
+              "children": [
+                {
+                  "id": "9399d85e-bf9f-4edd-8951-1a4ac148157c",
+                  "meta": {
+                    "ux": {
+                      "nameL10N": "SHAPE_RECTANGLE"
+                    }
+                  },
+                  "name": "長方形 4",
+                  "shape": {
+                    "height": 31,
+                    "type": "rect",
+                    "width": 40,
+                    "x": 0,
+                    "y": 0
+                  },
+                  "style": {
+                    "fill": {
+                      "color": {
+                        "mode": "RGB",
+                        "value": {
+                          "b": 255,
+                          "g": 255,
+                          "r": 255
+                        }
+                      },
+                      "type": "solid"
+                    },
+                    "stroke": {
+                      "align": "inside",
+                      "color": {
+                        "mode": "RGB",
+                        "value": {
+                          "b": 112,
+                          "g": 112,
+                          "r": 112
+                        }
+                      },
+                      "type": "solid",
+                      "width": 1
+                    }
+                  },
+                  "transform": {
+                    "a": 1,
+                    "b": 0,
+                    "c": 0,
+                    "d": 1,
+                    "tx": 0,
+                    "ty": 0
+                  },
+                  "type": "shape"
+                },
+                {
+                  "id": "0158c86d-07a3-41cf-9ef3-90ed0be2b046",
+                  "meta": {
+                    "ux": {
+                      "nameL10N": "SHAPE_RECTANGLE"
+                    }
+                  },
+                  "name": "長方形 5",
+                  "shape": {
+                    "height": 31,
+                    "type": "rect",
+                    "width": 40,
+                    "x": 0,
+                    "y": 0
+                  },
+                  "style": {
+                    "fill": {
+                      "color": {
+                        "mode": "RGB",
+                        "value": {
+                          "b": 255,
+                          "g": 255,
+                          "r": 255
+                        }
+                      },
+                      "type": "solid"
+                    },
+                    "stroke": {
+                      "align": "inside",
+                      "color": {
+                        "mode": "RGB",
+                        "value": {
+                          "b": 112,
+                          "g": 112,
+                          "r": 112
+                        }
+                      },
+                      "type": "solid",
+                      "width": 1
+                    }
+                  },
+                  "transform": {
+                    "a": 1,
+                    "b": 0,
+                    "c": 0,
+                    "d": 1,
+                    "tx": 335,
+                    "ty": 47
+                  },
+                  "type": "shape"
+                },
+                {
+                  "id": "a2e19d27-cd49-43a5-8198-f3c33f61e7ea",
+                  "meta": {
+                    "ux": {
+                      "nameL10N": "SHAPE_RECTANGLE"
+                    }
+                  },
+                  "name": "長方形 6",
+                  "shape": {
+                    "height": 31,
+                    "type": "rect",
+                    "width": 40,
+                    "x": 0,
+                    "y": 0
+                  },
+                  "style": {
+                    "fill": {
+                      "color": {
+                        "mode": "RGB",
+                        "value": {
+                          "b": 255,
+                          "g": 255,
+                          "r": 255
+                        }
+                      },
+                      "type": "solid"
+                    },
+                    "stroke": {
+                      "align": "inside",
+                      "color": {
+                        "mode": "RGB",
+                        "value": {
+                          "b": 112,
+                          "g": 112,
+                          "r": 112
+                        }
+                      },
+                      "type": "solid",
+                      "width": 1
+                    }
+                  },
+                  "transform": {
+                    "a": 1,
+                    "b": 0,
+                    "c": 0,
+                    "d": 1,
+                    "tx": 162,
+                    "ty": 31
+                  },
+                  "type": "shape"
+                }
+              ]
+            },
+            "id": "2900cd67-17cb-41d2-b4be-febf2b91bc27",
+            "meta": {
+              "ux": {
+                "hasCustomName": true,
+                "listViewPosition": 0,
+                "modTime": 1543721375963,
+                "symbolId": "7bed8186-4fcb-4383-a5ec-65f372927007"
+              }
+            },
+            "name": "3RectangleSymbol",
+            "transform": {
+              "a": 1,
+              "b": 0,
+              "c": 0,
+              "d": 1,
+              "tx": 0,
+              "ty": 0
+            },
+            "type": "group"
+          },
           {
             "group": {
               "children": [
@@ -89,7 +267,7 @@
             "meta": {
               "ux": {
                 "hasCustomName": true,
-                "listViewPosition": 0,
+                "listViewPosition": 1,
                 "modTime": 1543583463369,
                 "symbolId": "e227c4e9-14d4-4938-916f-3e788d6956b3"
               }
@@ -237,7 +415,7 @@
             "meta": {
               "ux": {
                 "hasCustomName": true,
-                "listViewPosition": 1,
+                "listViewPosition": 2,
                 "modTime": 1543497129355,
                 "symbolId": "bcf55bdf-5d02-4d4d-821b-24ca48c4000f"
               }
