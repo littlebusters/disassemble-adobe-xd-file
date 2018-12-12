@@ -148,7 +148,7 @@
                 "singleTextObject": true
               }
             },
-            "name": "Type something",
+            "name": "大都会岡山Advent Calendar",
             "style": {
               "fill": {
                 "color": {
@@ -178,7 +178,7 @@
                     [
                       {
                         "from": 0,
-                        "to": 14,
+                        "to": 20,
                         "x": 0,
                         "y": 0
                       }
@@ -186,7 +186,7 @@
                   ]
                 }
               ],
-              "rawText": "Type something"
+              "rawText": "大都会岡山Advent Calendar"
             },
             "transform": {
               "a": 1,
@@ -490,7 +490,7 @@
             "path": "6d8fbbfa-6563-4e9f-be0f-afa6e5ea9868"
           }
         },
-        "ref": "7374c2b8-5624-441d-af73-5ec0f12c8558"
+        "ref": "3bf104de-4c77-4c9e-907e-c0993572284a"
       },
       "id": "6d8fbbfa-6563-4e9f-be0f-afa6e5ea9868",
       "meta": {

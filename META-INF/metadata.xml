@@ -8,15 +8,15 @@
     xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
    xmp:CreatorTool="XD"
    xmp:CreateDate="2018-11-28T20:52:13.514+09:00"
-   xmp:ModifyDate="2018-12-02T18:43:25.656+09:00"
-   xmp:MetadataDate="2018-12-02T18:43:25.656+09:00"
+   xmp:ModifyDate="2018-12-12T22:55:05.617+09:00"
+   xmp:MetadataDate="2018-12-12T22:55:05.617+09:00"
    dc:format="application/vnd.adobe.sparkler.project+dcx"
    xmpMM:DocumentID="7066f0ab-7624-483b-b4b6-b7c10ca7d513"
    xmpMM:OriginalDocumentID="7066f0ab-7624-483b-b4b6-b7c10ca7d513"
-   xmpMM:InstanceID="60328c71-5ca3-480f-bd63-046291fa08d4">
+   xmpMM:InstanceID="8684ab90-0056-42e8-ad68-78f5cd3ec686">
    <dc:title>
     <rdf:Alt>
-     <rdf:li xml:lang="x-default">structure-test</rdf:li>
+     <rdf:li xml:lang="x-default"/>
     </rdf:Alt>
    </dc:title>
    <xmpMM:History>
@@ -28,8 +28,8 @@
       stEvt:softwareAgent="XD"/>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="60328c71-5ca3-480f-bd63-046291fa08d4"
-      stEvt:when="2018-12-02T18:43:25.656+09:00"
+      stEvt:instanceID="8684ab90-0056-42e8-ad68-78f5cd3ec686"
+      stEvt:when="2018-12-12T22:55:05.617+09:00"
       stEvt:softwareAgent="XD"/>
     </rdf:Seq>
    </xmpMM:History>
